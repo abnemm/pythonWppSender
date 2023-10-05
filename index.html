@@ -1,25 +1,20 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>html { font-family: Helvetica; display: inline-block; margin: 0px auto; text-align: center;}</style>
 </head>
 <body>
-    <form action="http://127.0.0.1:8000/asd/mensagem" method="get">
-        <p>DESTINATARIO</p>
-        <input name="dest" type="text">
-        <p>MENSAGEM</p>
-        <input name="msg" type="text">
-        <input type="submit">
-        
+    <form method="post" action="http://127.0.0.1:8000/post">
+        <p>Destinatário </p>
+        <input id="dest" name="dest" type="text">
+        <br>
+        <p>Mensagem </p>
+        <input id="msg" name="msg" type="text">
+        <p><input type="submit"></p>
     </form>
-    
-    <!-- <p>IMG</p>
-    <input name="msg" type="file"> -->
+
 
 
 </body>

@@ -1,0 +1,10 @@
+
+2023-10-04 08:56:41.340566  -  <coroutine object Request.json at 0x00000192414B1230> 
+2023-10-04 10:10:50.900265  -  aasd - hgfhgjf 
+2023-10-05 09:48:47.850268 - Erro ao criar pagina - <class 'selenium.common.exceptions.NoSuchWindowException'> - componenteMsg.py 35
+2023-10-05 10:59:14.368659 - Erro ao criar pagina - <class 'urllib3.exceptions.ProtocolError'> - componenteMsg.py 31
+2023-10-05 11:29:39.408186 - Erro ao criar pagina - <class 'selenium.common.exceptions.WebDriverException'> - componenteMsg.py 45
+2023-10-05 14:18:24.328694 - Erro ao criar pagina - <class 'selenium.common.exceptions.NoSuchWindowException'> - componenteMsg.py 49
+2023-10-05 14:18:36.744043 - Erro ao criar pagina - <class 'urllib3.exceptions.ProtocolError'> - componenteMsg.py 45
+2023-10-05 14:26:40.446998 - Erro ao criar pagina - <class 'selenium.common.exceptions.WebDriverException'> - componenteMsg.py 44
+2023-10-05 14:38:12.877600 - Erro ao criar pagina - <class 'urllib3.exceptions.ProtocolError'> - componenteMsg.py 43
